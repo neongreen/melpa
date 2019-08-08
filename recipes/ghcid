@@ -1,0 +1,4 @@
+(ghcid
+ :repo "davidmiller/pony-mode"
+ :fetcher github
+ :files ("plugins/emacs"))
